@@ -1,0 +1,14 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# OS and editor temporary files
+Thumbs.db
+.DS_Store
+.DS_Store?
+._*
+*.tmp
+~$*
