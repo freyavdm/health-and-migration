@@ -1,7 +1,7 @@
 # Influence of Community Health on U.S. Migration
 
 **SIADS 593 – Milestone I · University of Michigan Master of Applied Data Science (MADS)**
-Freya Van de Motter, Ransom MacLeith, and Shay Gooding
+Freya Van de Motter, Ransom MacLeith, and Shay Gooding 
 
 This project was originally built and run on [Deepnote](https://deepnote.com) in January–February 2026. It is being uploaded here as-is, just to share. The notebooks assume the Deepnote environment (working directory at repo root, `data/` alongside the notebooks); to re-run, replicate the setup on Deepnote or install `requirements.txt` locally and run the notebooks in numbered order. Notebook 2 pulls ACS migration data from the Census API (requires your own API key) but falls back to the cached `data/raw_migration_data.csv`.
 
